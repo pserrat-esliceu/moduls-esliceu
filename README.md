@@ -24,3 +24,6 @@
    2. ofimàtica
 3. cati
 
+> Això és una cita d'exemple.  
+> Pots emprarla per a resaltar texte.
+
