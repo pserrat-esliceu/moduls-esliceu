@@ -1,9 +1,9 @@
 # esliceu
-## Encabezado Nivel 2
-### Encabezado Nivel 3
-#### Encabezado Nivel 4
-##### Encabezado Nivel 5
-###### Encabezado Nivel 6
+## Encapçalment Nivell 2
+### Encapçalment Nivell 3
+#### Encapçalment Nivell 4
+##### Encapçalment Nivell 5
+###### Encapçalment Nivell 6
 **Es liceu**
 
 *Es liceu*
@@ -11,3 +11,16 @@
 **_Es liceu_**
 
 [Google](https://www.google.com)
+
+- marouan
+- guillem
+  - sistemas operatius
+  - ofimàtica
+- cati
+
+1. marouan
+2. guillem
+   1. Sistemas operatius
+   2. ofimàtica
+3. cati
+
